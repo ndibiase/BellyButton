@@ -1,0 +1,1 @@
+web: gunicorn Bellyapp.nick_app:app
